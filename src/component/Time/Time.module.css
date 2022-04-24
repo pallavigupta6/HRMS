@@ -1,0 +1,14 @@
+
+.container{
+    
+    margin: auto;
+    margin-top: 180px;
+    border-radius: 20px;
+    width: 600px;
+    background-color: cyan;
+}
+.row{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

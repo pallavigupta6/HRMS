@@ -1,0 +1,58 @@
+.nav{
+
+    box-shadow: 5px 10px 10px #F4F5F7;
+}
+.bckbtn{
+    margin-left: 60px;
+    background-color: black;
+    height: 60px;
+    width: 60px;
+}
+.sidebar{
+    height: 100vh;
+    box-shadow:10px 10px 10px #F4F5F7 ;
+    border-top-right-radius:30px ;
+}
+.profilepicbar{
+    margin: auto;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sidebarcard{
+    height: 200px;
+    background-color:#ccc ;
+    width: 320px;
+    margin: auto;
+    border-radius: 20px;
+}
+.sidebarlower{
+    /* border: 1px solid black; */
+    height:250px ;
+    width:280px;
+    margin: auto;
+    margin-top: 30px;
+    
+}
+.lowerbtn{
+    /* border: 1px solid green; */
+    font-size: 20px;
+    text-align: left;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+.lowerbtn:active{
+    background-color: orange;
+    color: white;
+}
+.h6{
+    margin: 20px;
+    padding: 10px;
+}
+ p{
+    font-weight: bold;
+}
+
+

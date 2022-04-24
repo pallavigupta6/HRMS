@@ -1,0 +1,32 @@
+{
+  "Data": [
+    {
+      "id": 101,
+      "name": "pallavi",
+      "gender": "female",
+      "position": "software developer",
+      "password": "12345@"
+    },
+    {
+      "id": 102,
+      "name": "prince",
+      "gender": "male",
+      "position": "software developer",
+      "password": "12345@"
+    },
+    {
+      "id": 103,
+      "name": "deepti",
+      "gender": "female",
+      "position": "software developer",
+      "password": "12345@"
+    },
+    {
+      "id": 104,
+      "name": "shoumik",
+      "gender": "male",
+      "position": "software developer",
+      "password": "12345@"
+    }
+  ]
+}
